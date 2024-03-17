@@ -12,6 +12,7 @@ Pipeline->
 Docker compose contains multi stage pipeline to build, test and run the application
 
 How to run the application from parent folder?
+
 docker-compose up --build -d
 
 Caveat->
