@@ -1,8 +1,11 @@
 ### PZ Cheeseria
 
 Front End - React JS , Axios 
+
 Back End - Springboot Java , Junit test , Mockito 
+
 Docker - Multi Stage Pipeline
+
 DB - MySQL
 
 Pipeline->
